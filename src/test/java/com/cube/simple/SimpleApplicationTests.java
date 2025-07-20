@@ -1,4 +1,4 @@
-package com.demo.simple;
+package com.cube.simple;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.demo.simple;
+package com.cube.simple;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -14,9 +14,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
-import com.demo.simple.service.LottoService;
-import com.demo.simple.service.ResultService;
-import com.demo.simple.service.WorkerService;
+import com.cube.simple.service.LottoService;
+import com.cube.simple.service.ResultService;
+import com.cube.simple.service.WorkerService;
 
 import lombok.extern.slf4j.Slf4j;
 

@@ -1,4 +1,4 @@
-package com.demo.simple.service;
+package com.cube.simple.service;
 
 import java.io.IOException;
 import java.util.ArrayList;

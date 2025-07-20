@@ -1,4 +1,4 @@
-package com.demo.simple.service;
+package com.cube.simple.service;
 
 import java.util.Random;
 import java.util.concurrent.CompletableFuture;
